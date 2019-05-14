@@ -1,5 +1,6 @@
 .rvmrc
 .rbenv-version
+.ruby-version
 .bundle
 .idea
 .idea/*.*
